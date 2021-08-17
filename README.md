@@ -7,12 +7,10 @@ Second brain App expetiment to edit notes in markdown followin g the [Zettelkast
 References: 
 - https://github.com/ctwhome/notesone
 
-```
-npx degit ctwhome/nuxt <directory-name>
-```
 
 ### Includes:
 * Tiptap rich text editor
+* FabricJs for note drawings
 
 *   Nuxt Vite (Experimental with issues, TailwindCSS JIT not working with nuxt-vite: [issue](https://github.com/nuxt/vite/issues/159))
 *   Nuxt content
