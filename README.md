@@ -9,6 +9,7 @@ npx degit ctwhome/nuxt <directory-name>
 ```
 
 ### Includes:
+* Tiptap rich text editor
 
 *   Nuxt Vite (Experimental with issues, TailwindCSS JIT not working with nuxt-vite: [issue](https://github.com/nuxt/vite/issues/159))
 *   Nuxt content
