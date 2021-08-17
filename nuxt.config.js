@@ -85,6 +85,13 @@ export default {
   ],
 
   vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          sourceMap: true
+        }
+      }
+    },
     server: {
       fs: {
         strict: false

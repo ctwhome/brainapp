@@ -1,7 +1,12 @@
 <template>
-  <div class="container mx-auto">
-    <tutorial class="mt-20" />
-    <blog-list :posts="posts" :more="true" />
+  <div class="flex flex-col">
+    <div class="container mx-auto text-xl">
+      Second brain App (with Nuxt, Supabase, Tailwind, Tiptap, and )
+    </div>
+    <tiptap class="container p-4 mx-auto mt-10 border" />
+
+    <!-- <tutorial class="mt-20" /> -->
+    <!-- <blog-list :posts="posts" :more="true" /> -->
   </div>
 </template>
 
