@@ -1,8 +1,11 @@
-# Nuxt start template
+# Brain App
 [![cd](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml/badge.svg)](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml)
 
 
-Template Nuxt with most common configuration to a based set with Nuxt, by Ctwhome
+Second brain App expetiment to edit notes in markdown followin g the [Zettelkasten](https://zettelkasten.de/posts/overview/) philosofy, by Ctwhome
+
+References: 
+- https://github.com/ctwhome/notesone
 
 ```
 npx degit ctwhome/nuxt <directory-name>
