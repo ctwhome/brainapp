@@ -1,6 +1,7 @@
 # Brain App
 [![cd](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml/badge.svg)](https://github.com/ctwhome/nuxt/actions/workflows/cd.yml)
 
+`This repository is only an idea 💡, it is not functional and you can't do much with it yet.`
 
 Second brain App expetiment to edit notes in markdown following the [Zettelkasten](https://zettelkasten.de/posts/overview/) philosofy, by Ctwhome
 
